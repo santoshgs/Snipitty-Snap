@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Snipitty Snipitty</string>
+    <string name="action_about">About</string>
+    <string name="LastURL">You just shortened a URL!</string>
+    <string name="aboutme">App developed by Santosh... because I was bored. :\</string>
+
+</resources>
